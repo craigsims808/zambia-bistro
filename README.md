@@ -1,5 +1,7 @@
 # Zambia Bistro
 
+![cover](public/og-image.png)
+
 ## Project info
 
 Landing page template design for restaurants
